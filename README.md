@@ -73,9 +73,11 @@ Deployment: Gradio
 
 Code + Models
 
- Gradio App: you can find the deployme nt code here: https://drive.google.com/file/d/1qHw0LcCehZ5sU05Aq3JFaAEQfIM1Mzhw/view?usp=sharing
+ Gradio App
 
 GPT-4 Blog Summaries
+
+You can see all of our models and datasets and the deployment using this code : https://colab.research.google.com/drive/1-9UKpZsxbQcVCosJ9b3ENvjp6w02CFGw?usp=sharing
 
 PPT Presentation
 
