@@ -79,7 +79,7 @@ GPT-4 Blog Summaries
 
 You can see all of our models and datasets and the deployment using this code : https://colab.research.google.com/drive/1-9UKpZsxbQcVCosJ9b3ENvjp6w02CFGw?usp=sharing
 
-PPT Presentation
+PPT Presentation : https://www.canva.com/design/DAGhZW5GLIo/pjljS9XGAcDy0Br2nseMNA/edit?utm_content=DAGhZW5GLIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 PDF Report : https://docs.google.com/document/d/1SCzJjwLbMX3HZm4Aio3Bs-yDWbArnzqhGt2TKwS5Gfs/edit?usp=sharing
 
