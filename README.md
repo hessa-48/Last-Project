@@ -81,7 +81,7 @@ You can see all of our models and datasets and the deployment using this code : 
 
 PPT Presentation
 
-PDF Report
+PDF Report : https://docs.google.com/document/d/1SCzJjwLbMX3HZm4Aio3Bs-yDWbArnzqhGt2TKwS5Gfs/edit?usp=sharing
 
 
 
