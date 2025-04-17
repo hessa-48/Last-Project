@@ -73,7 +73,7 @@ Deployment: Gradio
 
 Code + Models
 
- Gradio App
+ Gradio App: you can find the deployme nt code here: https://drive.google.com/file/d/1qHw0LcCehZ5sU05Aq3JFaAEQfIM1Mzhw/view?usp=sharing
 
 GPT-4 Blog Summaries
 
