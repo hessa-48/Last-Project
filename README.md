@@ -83,5 +83,6 @@ PPT Presentation : https://www.canva.com/design/DAGhZW5GLIo/pjljS9XGAcDy0Br2nseM
 
 PDF Report :https://docs.google.com/document/d/1SCzJjwLbMX3HZm4Aio3Bs-yDWbArnzqhGt2TKwS5Gfs/edit?usp=sharing
 
+Here is a drive for our models saved as a zip file : https://drive.google.com/drive/folders/1b_16wYaJ1rX_H5Z2KxjPzbH609_TMyoE?usp=sharing
 
 
