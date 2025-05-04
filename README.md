@@ -1,4 +1,4 @@
-#  NLP Project | Automated Customer Reviews
+# ALHAKEM | AI-Powered Review Intelligence Platform
 
 Team Members: Hessah · Ghadah · Shatha
 
